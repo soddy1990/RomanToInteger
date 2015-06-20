@@ -33,3 +33,9 @@ int romanToInt(string s) {
 	}
 	return result+temp;
 }
+
+
+void main(){
+	cout<<romanToInt("MMCDVI")<<endl;
+	getchar();
+}
